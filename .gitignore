@@ -1,0 +1,4 @@
+./_background_noise_/*
+./aug/*
+./augmented_dataset/*
+./speech_commands-dataset
